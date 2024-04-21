@@ -1,0 +1,16 @@
+{
+  "name": "wal1-cli-currency-convertor",
+  "version": "1.0.0",
+  "description": "Command line based Currency convertor using Typescript and Node modules",
+  "main": "index.js",
+  "type": "module",
+  "bin": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syed Ali Kazim Shah",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
